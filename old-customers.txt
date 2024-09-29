@@ -1,0 +1,7 @@
+
+Customer ID: 1
+Name: Aman
+Age: 25
+Mobile Number: 1234567890
+Address: a-34
+Gender: m
